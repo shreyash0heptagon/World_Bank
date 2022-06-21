@@ -1,0 +1,21 @@
+.header-wrapper{
+    background-color: #3366FF;
+}
+
+.header-tabs-bar{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    color: #FFFFFF;
+    font-family: 'HelveticaNeueMedium';
+}
+
+.tab-item{
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.tab-item.active{
+    border-bottom: 3px solid #FFFFFF;
+    padding: 8px;
+}

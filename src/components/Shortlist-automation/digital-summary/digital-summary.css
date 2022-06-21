@@ -1,0 +1,117 @@
+.job-description, .selection-criteria{
+    padding: 15px 20px 15px 30px;
+}
+
+.job-description{
+    border-right: solid 1px #E3E3E3;
+}
+
+.job-description-header, .selection-criteria-header{
+    font-size: 18px;
+    font-family: 'IbmPlexSansBold';
+    margin-bottom: 20px;
+}
+
+.job-description-item-header, .selection-criteria-item-header{
+    font-family: 'IbmPlexSansSemiBold';
+    font-size: 16px;
+    margin: 0 0 20px 0;
+}
+
+.job-description-item, .selection-criteria-item{
+    border-bottom: solid 1px #E3E3E3;
+    padding: 10px 15px 10px 15px;
+}
+
+.selection-criteria-item:hover{
+    box-shadow: 0px 0px 6px #0000003B;
+    cursor: pointer;
+}
+
+.circular-progress-bar{
+    width: 50% !important;
+    float: right;
+}
+
+
+.digital-summary-wrapper{
+    background-color: #F7F9FC;
+}
+
+.digital-summary-header{
+    font-size: 18px;
+    font-family: 'IbmPlexSansBold';
+    margin-top: 3px;
+}
+
+.digital-summary{
+    background-color: #FFFFFF;
+}
+
+.modal-body{
+    padding: 0 25px;
+}
+
+.modal-title{
+    font-family: 'IbmPlexSansBold';
+    color: #0B0B0B;
+    font-size: 18px;
+}
+
+.save-btn{
+    padding: 7px;
+    background-color: #44CC3B;
+    border: #44CC3B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.rating-title, .comments-label{
+    font-family: 'IbmPlexSansMedium';
+    font-size: 14px;
+    color: #0B0B0B;
+    text-transform: capitalize;
+}
+
+.rating-title{
+    max-width: 80%;
+}
+
+.tag-comments{
+    resize: none;
+}
+
+.rs-slider-graduator>ol>li.rs-slider-pass:before{
+    border: solid 1px #E2E2E2 !important;
+}
+
+.rs-slider-handle:before{
+    border-color: #1FB45E !important;
+}
+
+.delete-keyword-icon{
+    margin: 0 0px 15px 5px;
+    width: 6%;
+    cursor: pointer;
+}
+
+.div-margin-x{
+    margin: 0 16px !important;
+}
+
+.new-keyword-input{
+    outline: 0;
+    border-width: 0 0 1px 0;
+    border-color: #707070;
+    font-size: 12px;
+    font-family: 'IbmPlexSansRegular';
+    padding: 0 0 5px 0 ;
+}
+
+.empty-text{
+    font-family: 'IbmPlexSansRegular';
+    font-size: 14px;
+    padding: 10px 0 15px 0;
+}

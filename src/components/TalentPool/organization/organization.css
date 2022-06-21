@@ -1,0 +1,33 @@
+.role-info .nav-label-wrapper{
+    font-size: 15px;
+    font-family: 'IbmPlexSansMedium';
+    margin: 16px;
+}
+
+.nav-labelo{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    color:black;
+}
+
+.toggle-menu-wrapper{
+    background-color: #F7F9FC;
+    padding: 15px 0;
+}
+
+.organization-wrapper{
+    margin:1rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px 0;
+    height:120px;
+}
+.button-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

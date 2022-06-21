@@ -1,0 +1,78 @@
+.login-wrapper{
+    height: 100vh;
+}
+
+.banner-info{
+    font-family: 'HelveticaNeueMedium';
+    color: #FFFFFF;
+}
+
+.banner-section{
+    background-color: #3366FB;
+}
+
+.banner-info-wrapper{
+    margin: 40px;
+    width: 66%;
+}
+
+.banner-description{
+    color: #FFFFFF;
+    font-family: 'HelveticaNeueRegular';
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.banner-illustration{
+    width: 87%;
+}
+
+.login-form-section{
+    font-family: 'HelveticaNeueBold';
+}
+
+.login-form-section label{
+    font-size: 15px;
+}
+
+.login-form-input{
+    border: 1px solid #979797;
+    background: #F7F9FC;
+    border-radius: 5px;
+    height: 40px;
+    padding: 5px;
+    font-weight: lighter;
+    font-family: 'IbmPlexSansMedium';
+    font-size: 14px;
+}
+
+.forgot-password-label{
+    color: #3366FB;
+    font-size: 12px;
+    font-family: 'HelveticaNeueRegular';
+    text-align: right;
+}
+
+.login-form-input:focus{
+    outline: none;
+}
+
+.login-btn{
+    padding: 7px;
+    background-color: #44CC3B;
+    border: #44CC3B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.login-sso-btn{
+    padding: 7px;
+    background-color: #454F5B;
+    border: #454F5B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}

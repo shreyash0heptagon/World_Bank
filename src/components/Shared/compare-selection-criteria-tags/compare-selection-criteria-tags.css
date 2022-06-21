@@ -1,0 +1,26 @@
+.sc-tag{
+    background-color: #CCF8D8;
+    width: fit-content;
+    padding: 4px 7px;
+    border-radius: 20px;
+    color: #0B0B0B;
+    margin: 15px 5px;
+    font-family: 'IbmPlexSansMedium';
+    font-size: 12px;
+    align-items: center;
+    cursor: context-menu;
+}
+
+.weightage-value{
+    background-color: #1FB45E;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 50%;
+    height: 17px;
+    width: 21px;
+    margin-left: 10px;
+}
+
+.keyword-text-value{
+    width: 93%;
+}

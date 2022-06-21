@@ -1,0 +1,77 @@
+.job-description, .selection-criteria{
+    padding: 15px 20px 15px 30px;
+}
+
+.job-description{
+    border-right: solid 1px #E3E3E3;
+}
+
+.job-description-header, .selection-criteria-header{
+    font-size: 16px;
+    font-family: 'IbmPlexSansSemiBold';
+    margin-bottom: 20px;
+}
+
+.job-description-item-header, .selection-criteria-item-header{
+    font-family: 'IbmPlexSansSemiBold';
+    font-size: 16px;
+    margin: 0 0 20px 0;
+}
+
+.job-description-item, .selection-criteria-item{
+    border-bottom: solid 1px #E3E3E3;
+    padding: 10px 15px 0 15px;
+}
+
+.candidate-summary .selection-criteria-item{
+    height: 100%;
+}
+
+.selection-criteria-item:hover{
+    box-shadow: 0px 0px 6px #0000003B;
+}
+
+.circular-progress-bar{
+    width: 50% !important;
+    float: right;
+}
+
+
+.digital-summary-wrapper{
+    background-color: #F7F9FC;
+}
+
+.digital-summary-header{
+    font-size: 18px;
+    font-family: 'IbmPlexSansBold';
+    margin-top: 3px;
+}
+
+.digital-summary{
+    background-color: #FFFFFF;
+}
+
+.summary-section .summary-overall-value-label{
+    font-size: 14px;
+    font-family: 'IbmPlexSansSemiBold';
+    color: #1B7AF6;
+}
+
+.summary-section .out-of-label{
+    font-size: 12px;
+    color: #3D3F3D;
+    font-family: 'IbmPlexSansSemiBold'
+}
+
+.progressbar-wrapper{
+    text-align: right;
+}
+
+.sample{
+    width: 70%;
+    padding: 5%;
+}
+
+.div-margin-x{
+    margin: 0 16px !important;
+}

@@ -1,0 +1,202 @@
+.nav-label-wrapper{
+    font-size: 15px;
+    font-family: 'IbmPlexSansMedium';
+    background-color: #FFFFFF;
+}
+
+.nav-label{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.candidate-name-nav{
+    background-color: #FFFFFF;
+    font-family: 'IbmPlexSansMedium';
+    align-items: baseline;
+    padding: 10px 5px;
+}
+
+.candidate-name-nav .candidate-name{
+    font-size: 18px;
+}
+
+.compare-table-outer{
+    background-color: #F7F9FC;
+    padding: 20px 0;
+}
+
+.compare-table-wrapper{
+    background-color: #F7F9FC;
+    margin: 0 16px !important;
+}
+
+.compare-heading{
+    font-family: 'IbmPlexSansMedium';
+    font-size: 18px;
+}
+
+.compare-table{
+    background-color: #FFFFFF;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.header-cell{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.table-header{
+    align-items: center;
+}
+
+.header-text h6{
+    color: #454F5B;
+    font-size: 14px;
+    font-family: 'IbmPlexSansMedium';
+}
+
+.header-text p{
+    color: #757AA0;
+    font-size: 12px;
+    font-family: 'IbmPlexSansMedium';
+    margin: 0;
+}
+
+.header-checkbox{
+    height: 15px;
+    width: 15px;
+    margin: 0 15px;
+}
+
+.compare-table th{
+    background-color: #EFF5FC !important;
+    padding: 5px !important;
+    border: solid 1px #7070701F !important;
+    text-align: center;
+}
+
+.compare-table td{
+    padding: 10px !important;
+    border: solid 1px #7070701F;
+}
+
+.compare-table h6{
+    color: #454F5B;
+    font-weight: 500;
+}
+
+.first-col{
+    background-color: #F8F8F8 !important;
+    color: #454F5B !important;
+    font-family: 'IbmPlexSansMedium' !important;
+    font-size: 16px !important;
+}
+
+.decision-cell{
+    font-size: 14px;
+    color: #434343;
+    font-family: 'IbmPlexSansMedium';
+}
+
+.vacancy-status-open{
+    background-color: #FCA8A8;
+    border-radius: 100px;
+    padding: 1px 15px;
+    color: #434343;
+    width: 75px;
+    text-align: center;
+}
+
+.score-circle{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 9px;
+    text-align: center;
+    height: 55px;
+    width: 55px;
+}
+
+.score-circle h5{
+    color: #454F5B;
+    font-size: 13px;
+    font-family: 'IbmPlexSansMedium';
+}
+
+.score-circle p{
+    color: #757AA0;
+    font-size: 10px;
+    font-family: 'IbmPlexSansMedium';
+}
+
+.list-btn{
+    border-radius: 18px;
+    width: fit-content;
+    padding: 3px 15px;
+    margin: 0 1px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.moveto-reject{
+    color: #434343;
+    border: solid 1px #FCA8A8;
+    background-color: #FCA8A8;
+}
+
+.moveto-waitlist{
+    color: #434343;
+    border: solid 1px #A1EBFC;
+    background-color: #A1EBFC;
+}
+
+.moveto-longlist{
+    color: #434343;
+    border: solid 1px #9FFDD8;
+    background-color: #9FFDD8;
+}
+
+.moveto-talentpool{
+    color: #434343;
+    border: solid 1px #EFEEEE;
+    background-color: #EFEEEE;
+}
+
+.move-to-section{
+    justify-content: flex-end;
+}
+
+.moveto-wrapper{
+    border: solid 1px #B3B3B5;
+    border-radius: 18px;
+    width: fit-content;
+    font-size: 12px;
+    font-family: 'IbmPlexSansMedium';
+    padding: 2px 2px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.moveto-btn{
+    border-radius: 18px;
+    width: fit-content;
+    padding: 4px 15px;
+    margin: 0 1px;
+    cursor: pointer;
+}
+
+.list-btn{
+    border-radius: 18px;
+    width: fit-content;
+    padding: 3px 15px;
+    margin: 0 1px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.toolbar-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0px;
+}

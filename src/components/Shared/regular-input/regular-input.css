@@ -1,0 +1,14 @@
+.regular-input{
+    height: 33px;
+    color: #6A6767;
+    font-size: 12px;
+    font-family: 'IbmPlexSansRegular';
+    border: solid 1px #B3B3B5;
+    background-image: url('../../../assets/feather-search.svg');
+    background-repeat: no-repeat;
+    background-size: 13px 13px;
+    background-position: 5px 9px;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 24px;
+}

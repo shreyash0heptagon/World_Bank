@@ -1,0 +1,96 @@
+.role-info .nav-label-wrapper{
+    font-size: 15px;
+    font-family: 'IbmPlexSansMedium';
+    margin: 16px;
+}
+
+.nav-label{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.nav-text{
+    font-weight: bold;
+}
+
+.role-name{
+    margin-left: 15px;
+    color: #777474;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'HelveticaNeueMedium';
+}
+.toggle-menu-wrapper{
+    background-color: #F7F9FC;
+    padding: 15px 0;
+}
+.form-wrapper{
+    margin:1rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px 0;
+}
+.half-side{
+    width: 50%;
+}
+.field-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+}
+.popup-field-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+}
+.popup-field-weight-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0.5rem;
+}
+.input-field{
+    width: 80%;
+    padding-top: 1rem;
+}
+.label-wrapper{
+    display: flex;
+    flex-direction: row;   
+}
+.input-weight{
+    margin-left:1rem;
+    padding-top: 1rem;
+    width:10%;
+}
+.input-label-weight{
+    margin-left:1rem;
+    padding-top: 1rem;
+    width:20%;
+}
+.button-wrapper{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;   
+}
+.education-wrapper{
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px 0;
+}
+.wrapper-30{
+    width:30%;
+}
+.wrapper-20{
+    width:20%;
+}
+
+.wrapper-15{
+    width:15%;
+}
+.input-edu{
+    width: 100%;
+    padding-top: 1rem;   
+}

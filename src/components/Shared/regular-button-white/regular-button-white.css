@@ -1,0 +1,16 @@
+.regular-button{
+    background-color: #FFFFFF;
+    border: solid 1px #3366FB;
+    color: #3366FB;
+    font-family: 'IbmPlexSansMedium';
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 7px 15px 7px 15px;
+    height: fit-content;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.custom-icon{
+    margin-left: 15px;
+}

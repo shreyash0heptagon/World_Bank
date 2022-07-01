@@ -1,0 +1,49 @@
+.role-info .nav-label-wrapper{
+    font-size: 15px;
+    font-family: 'IbmPlexSansMedium';
+    margin: 16px;
+}
+
+.nav-labelo{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    color:black;
+}
+.navbar-crumb{
+    text-decoration: none;
+    cursor: pointer;
+    color:blue;   
+}
+.toggle-menu-wrapper{
+    background-color: #F7F9FC;
+    padding: 15px 0;
+}
+.org-field-wrapper{
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.organization-wrapper{
+    margin:1rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px 0;
+    height:120px;
+}
+.create-organization-wrapper{
+    margin:1rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px 0;
+
+}
+.button-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,12 @@
+.loader{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-color: #3366FF;
+    top: 0;
+    left: 0;
+}
+
+.icon{
+    width: 25%;
+}

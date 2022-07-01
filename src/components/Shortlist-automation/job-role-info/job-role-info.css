@@ -1,0 +1,88 @@
+.role-info .nav-label-wrapper{
+    font-size: 15px;
+    font-family: 'IbmPlexSansMedium';
+    margin: 16px;
+}
+
+.nav-label{
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.nav-text{
+    font-weight: bold;
+}
+
+.role-name{
+    color: #777474;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'HelveticaNeueMedium';
+}
+
+.role-details{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.role-details-item{
+    margin: 6px 0;
+    color: #212861;
+    font-family: 'IbmPlexSansMedium';
+}
+
+.role-details-item label{
+    margin-right: 5px;
+    color: #777474;
+}
+
+.pipe-seperator{
+    font-size: 20px;
+}
+
+.role-details li{
+    font-size: 14px;
+    list-style: none;
+}
+
+.vacancy-status-open{
+    background-color: #FCA8A8;
+    border-radius: 100px;
+    padding: 2px 20px;
+    color: #000000 !important;
+}
+
+.toggle-menu-wrapper{
+    background-color: #F7F9FC;
+    padding: 15px 0;
+}
+
+.toggle-menu{
+    background-color: #FFFFFF;
+    font-family: 'HelveticaNeueLight';
+    font-size: 16px;
+    font-weight: bolder;
+    color: #747AA0;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.toggle-menu-item{
+    padding: 7px 0;
+    cursor: pointer;
+}
+
+.toggle-menu-item.active{
+    color: #FFFFFF;
+    background-color: #3366FB;
+    border-radius: 5px;
+}
+
+.div-margin-x{
+    margin: 0 16px !important;
+}
+
+.rating-icon{
+    padding-bottom: 4px;
+    width: 13px;
+}

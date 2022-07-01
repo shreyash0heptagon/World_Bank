@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "HelveticaNeueMedium";
+  src: local("HelveticaNeueMedium"),
+    url("./fonts/HelveticaNeueMedium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeueRegular";
+  src: local("HelveticaNeueRegular"),
+    url("./fonts/HelveticaNeueRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeueBold";
+  src: local("HelveticaNeueBold"),
+    url("./fonts/HelveticaNeueBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeueLight";
+  src: local("HelveticaNeueLight"),
+    url("./fonts/HelveticaNeueLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IbmPlexSansRegular";
+  src: local("IbmPlexSansRegular"),
+    url("./fonts/ibm-plex-sans.regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IbmPlexSansLight";
+  src: local("IbmPlexSansLight"),
+    url("./fonts/ibm-plex-sans.light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IbmPlexSansMedium";
+  src: local("IbmPlexSansMedium"),
+    url("./fonts/ibm-plex-sans.medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IbmPlexSansSemiBold";
+  src: local("IbmPlexSansSemiBold"),
+    url("./fonts/ibm-plex-sans.semibold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IbmPlexSansBold";
+  src: local("IbmPlexSansBold"),
+    url("./fonts/ibm-plex-sans.bold.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

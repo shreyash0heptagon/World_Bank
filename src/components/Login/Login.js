@@ -34,11 +34,6 @@ const Login = ({ history }) => {
 
   let navigate = useNavigate();
 
-  function refreshPage(){ 
-    window.location.reload(); 
-}
-
-
 
   const login = (e) => {
     setLoading(true )
@@ -112,7 +107,6 @@ const Login = ({ history }) => {
                   value={password1} />
             <div className="mt-2 forgot-password-label"><a href="#" className="text-decoration-none">Forgot Password?</a></div>
             <div className="login-btn mt-2 col-md-12" onClick={login}>Log In</div>
-            <button type="button" onClick={ refreshPage }> </button> 
             <hr className="col-lg-12 mt-4" />
             <div className="text-center"><label>or</label></div>
             <div className="login-sso-btn mt-3 col-md-12">Log in with SSO</div>
